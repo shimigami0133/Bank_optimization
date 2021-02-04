@@ -1,6 +1,6 @@
 # Bank_optimization
 
-# The main aim of the project to distribute the money of the bank into diiferent classes like vehicle loan,..... in such a way that they obtain maximum profit.
+# The main aim of the project to distribute the money of the bank into different classes like vehicle loan,..... in such a way that they obtain maximum profit.
 
   In this project there are two phases 
       
